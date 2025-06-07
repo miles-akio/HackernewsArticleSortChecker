@@ -183,12 +183,6 @@ This will open a visible browser window to observe the script's actions.
 
 ---
 
-## License
-
-This project is provided as-is for educational and demonstration purposes.
-
----
-
 ## Author
 
 Created by Miles Shinmachi
