@@ -1,4 +1,4 @@
-# HackerNewsArticleSortChecker
+# Hacker News Article Sort Checker
 
 ## Project Description
 
